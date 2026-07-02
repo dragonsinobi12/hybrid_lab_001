@@ -22,10 +22,10 @@ This application is a single-page portfolio designed with a modern **White, Red,
 Here is how the application looks on different platforms:
 
 ### Mobile View (iOS / Android)
-![Mobile View Preview](./assets/images/inphone.jpg)
+<img src="./assets/images/inphone.jpg" width="320" alt="Mobile View Preview" />
 
 ### Desktop / Web View
-![Desktop View Preview](./assets/images/indesktop.png)
+<img src="./assets/images/indesktop.png" width="750" alt="Desktop View Preview" />
 
 ## 🛠️ Technology Stack
 
