@@ -1,50 +1,38 @@
-# Welcome to your Expo app 👋
+# 📱 Portfolio - Hybrid Mobile Application Program
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to my personal portfolio application. This project was developed as an educational assignment for the **Hybrid Mobile Application Program** course. It demonstrates the fundamental concepts of building cross-platform applications using React Native and Expo.
 
-## Get started
+## 👨‍🎓 Student Profile
 
-1. Install dependencies
+* **Name:** Mr. Ronnakit Sakeaw
+* **Student ID:** 663450351-5
+* **Major:** Computer Science and Information Technology
 
-   ```bash
-   npm install
-   ```
+## 🚀 Project Overview
 
-2. Start the app
+This application is a single-page portfolio designed with a modern **White, Red, and Black** color scheme. The primary objective is to showcase responsive UI design that adapts seamlessly to different screen sizes, demonstrating the true "hybrid" nature of the framework.
 
-   ```bash
-   npx expo start
-   ```
+### Key Features:
+* Single-page architecture tailored for a personal portfolio.
+* Responsive layout handling for both Mobile and Web/Desktop environments.
+* Clean and professional UI using standard React Native components.
 
-In the output, you'll find options to open the app in a
+## 📸 Screenshots
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Here is how the application looks on different platforms:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Mobile View (iOS / Android)
+![Mobile View Preview](./assets/images/inphone.jpg)
 
-## Get a fresh project
+### Desktop / Web View
+![Desktop View Preview](./assets/images/indesktop.png)
 
-When you're ready, run:
+## 🛠️ Technology Stack
 
-```bash
-npm run reset-project
-```
+* **Framework:** React Native
+* **Toolchain:** Expo (Version 54)
+* **Language:** TypeScript / JavaScript
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📚 Educational Purpose
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+*Disclaimer: This repository is created exclusively for educational purposes as part of the university curriculum. It is intended to demonstrate practical skills in hybrid mobile application development.*
