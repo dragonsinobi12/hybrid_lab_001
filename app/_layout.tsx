@@ -12,8 +12,8 @@ import {
 
 export default function PortfolioScreen() {
   // ฟังก์ชันสำหรับเปิดแอปอีเมลในเครื่อง
-  const handleContactPress = () => {
-    Linking.openURL('mailto:ronnakit.s@kkumail.com');
+  const handleGitHubPress  = () => {
+    Linking.openURL('https://github.com/dragonsinobi12/hybrid_lab_001');
   };
 
   return (
@@ -51,8 +51,8 @@ export default function PortfolioScreen() {
           </View>
 
           {/* ปุ่มติดต่อ */}
-          <TouchableOpacity style={styles.button} onPress={handleContactPress}>
-            <Text style={styles.buttonText}>Contact via Email</Text>
+          <TouchableOpacity style={styles.button} onPress={handleGitHubPress }>
+            <Text style={styles.buttonText}>GitHub</Text>
           </TouchableOpacity>
         </View>
 
